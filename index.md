@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to Zizhuo's Daily Notes
 
 You can use the [editor on GitHub](https://github.com/Xuzizhuo/Notes/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
